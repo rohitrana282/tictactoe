@@ -1,3 +1,7 @@
+#To checkout the game click on the following link :
+https://rohitrana-tictactoe-game.surge.sh/
+
+
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
