@@ -1,4 +1,4 @@
-#To checkout the game click on the following link :
+To checkout the game click on the link :
 https://rohitrana-tictactoe-game.surge.sh/
 
 
